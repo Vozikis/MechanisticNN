@@ -1,7 +1,7 @@
 
 # Physical Phenomena Simulation and Analysis
 
-This repository provides scripts for simulating and analyzing various physical phenomena, including free fall, pendulum motion, and double pendulum dynamics. The repository also includes pre-generated trajectories and experiment videos.
+This repository provides the implementation of Mechanistic Neural Network for simulating and analyzing various physical phenomena, including free fall, pendulum motion, and double pendulum dynamics. Paper can be found here: https://arxiv.org/pdf/2402.13077v1
 
 ## How to Run the Scripts
 
@@ -30,6 +30,8 @@ To run the scripts, follow these steps:
    python fit/double_pendulum.py
    ```
 
+Running those scripts will replicate the experiments from the beginning and it will save the results under the folder `trajectory_plots`
+
 ## Output Files and Visualizations
 
 - **Trajectories**:
@@ -39,24 +41,5 @@ To run the scripts, follow these steps:
     - A merged plot showing all trajectories in one graph for better visualization.
 
 - **Videos**:
-  - The `Videos` folder in the base directory contains experiment videos corresponding to the different physical phenomena.
+  - The `Videos` needs to be included and are not part of the repository
 
-## Requirements
-
-Make sure you have Python installed along with the required dependencies. You can install the necessary packages using:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Contributing
-
-Feel free to open issues or submit pull requests if you find any bugs or have suggestions for improvements.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Happy experimenting! 🎉
