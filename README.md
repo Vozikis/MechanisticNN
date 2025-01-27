@@ -1,7 +1,7 @@
 
 # Physical Phenomena Simulation and Analysis
 
-This repository provides the implementation of Mechanistic Neural Network for simulating and analyzing various physical phenomena, including free fall, pendulum motion, and double pendulum dynamics. https://arxiv.org/pdf/2402.13077v1
+This repository provides the implementation of Mechanistic Neural Network for simulating and analyzing various physical phenomena, including free fall, pendulum motion, and double pendulum dynamics. Paper can be found here: https://arxiv.org/pdf/2402.13077v1
 
 ## How to Run the Scripts
 
