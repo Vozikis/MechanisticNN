@@ -41,5 +41,5 @@ Running those scripts will replicate the experiments from the beginning and it w
     - A merged plot showing all trajectories in one graph for better visualization.
 
 - **Videos**:
-  - The `Videos` folder in the base directory contains experiment videos corresponding to the different physical phenomena.
+  - The `Videos` needs to be included and are not part of the repository
 
