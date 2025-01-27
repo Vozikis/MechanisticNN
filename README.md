@@ -30,6 +30,8 @@ To run the scripts, follow these steps:
    python fit/double_pendulum.py
    ```
 
+Running those scripts will replicate the experiments from the beginning and it will save the results under the folder `trajectory_plots`
+
 ## Output Files and Visualizations
 
 - **Trajectories**:
